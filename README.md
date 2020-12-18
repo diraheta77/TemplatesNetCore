@@ -1,2 +1,2 @@
 # TemplatesNetCore
-Code templates that I use to build apps quickly and that have my practices, my characteristics and libraries that I usually use in projects.
+My templates, which I use to build application or service code more quickly and simply.
